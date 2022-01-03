@@ -1,0 +1,230 @@
+.body{
+    background-color: #121010;  
+    height: 1024px; 
+    width: 1350px;
+} 
+
+.barra{
+background-color: #121010; 
+height: 85px;
+width: 100%;
+position: fixed;
+top:0;
+left: 0; 
+} 
+
+.nombre{  
+    text-decoration: none;
+    display: flex;
+    justify-content: center; 
+    padding-top: 15px; 
+    font-size: 40px;
+    font-family: 'Hind', sans-serif;
+    color: white;
+
+} 
+
+.ocupacion{ 
+    font-size: 28px; 
+    font-family:'Hind', sans-serif; 
+    color: rgba(255, 0, 0, 0.788);
+}
+
+.imagenfondo{ 
+    width: 100%;
+    height: 259px; 
+} 
+
+.imagenperfil{ 
+    width: 250px; 
+    height: 250px; 
+    border-radius: 50%; 
+    margin-left: 14cm; 
+   margin-block: -3cm;  
+   object-position: center; /* para centrar imagenes */
+   object-fit: cover; /* para que no se deformen las imagenes */
+
+}
+
+.circulo{
+    width: 155px;
+    height: 155px;
+    background-color:#9A1313 ;
+    border-radius: 50%;  
+    }
+
+.rojo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #9A1313; 
+    margin-top: 150px;
+    line-height: 200px;  
+    font-family: 'Hind', sans-serif; 
+    margin-left: 15px;  
+    text-align: center;
+   
+
+} 
+
+
+.gris{
+    width: 150px;
+    height: 150px; 
+    border-radius: 50%;
+    background-color: #665E5E;
+    margin-left: 250px; 
+    margin-right: 50px;
+    line-height: 150px;
+    font-family: 'Hind', sans-serif;  
+    padding: 8px;
+    text-align: center;
+    text-size-adjust: 2px;
+}
+
+.contenido{
+    width: 100%;
+    height: 40%;
+    padding-bottom: 50px;
+    background-color: #460808ad;  
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flexbox; 
+    justify-content: space-evenly; 
+    align-items: center;
+
+} 
+
+.link{
+    width: max-content;
+    text-decoration: none;
+    color: white; 
+    font-size: 30px; 
+    line-height: 150px;
+    margin-right: 25px;
+    text-align: center; 
+    margin: 0 auto; 
+}
+
+.contenidoparrafo1{
+    width: 80%; 
+    height: 30%; 
+    background-color: #9A1313; 
+    border-radius: 25px;
+    padding-right: 50px;
+    padding-left: 50px;
+    text-align: justify;
+    color: whitesmoke; 
+} 
+
+.sub{
+    font-size: 35px;
+    font-family:'Hind', sans-serif;
+} 
+
+.parrafo{
+    font-family:'Hind', sans-serif;
+
+ 
+} 
+
+.contenidoparrafo2{
+    width: 80%; 
+    height: 60%;  
+    background-color: #665e5e8c; 
+    border-radius: 25px;
+    padding-right: 50px; 
+    padding-left:  50px; 
+    float: right;
+    color: whitesmoke;
+    text-align: justify; 
+    font-family: 'Hind', sans-serif;  
+}
+
+.conacyt{
+    margin: auto; 
+    display: block;
+}
+
+.deloitte{
+    float: right; 
+}  
+
+.contenidoparrafo3{
+    width: 80%; 
+    height: 80%; 
+    background-color:#9A1313; 
+    border-radius: 25px; 
+    padding-right: 50px; 
+    padding-left: 50px; 
+    color: whitesmoke;
+    text-align: justify; 
+    font-family:'Hind', sans-serif; 
+
+}
+
+.uam{
+    padding-left: 400px;
+} 
+
+.generation{
+    padding-left: 65px; 
+} 
+
+.contenidoparrafo4{
+    width: 85%; 
+    height: 150%; 
+    background-color:#665e5e8c; 
+    border-radius: 25px; 
+    padding-right: 50px; 
+    padding-left: 50px; 
+    float: right;
+    color: whitesmoke;
+} 
+
+.subcontacto{
+    text-align: center; 
+    font-family: 'Hind', sans-serif; 
+}  
+
+.form{ 
+    background-color: rgba(255, 0, 0, 0.63); 
+    border: 4px solid black; 
+    width: 450px; 
+    height: 450px; 
+    margin: auto;
+} 
+
+.datos{ 
+    font-family:'Hind', sans-serif ; 
+    color: white; 
+    font-size: 15px; 
+    padding: 15px; 
+    margin-left: 65px;
+
+}  
+
+.recuadro{
+    border: 3px solid black; 
+    margin-left: 13px;  
+} 
+
+.recuadromensaje{
+    width: 180px; 
+    height: 150px; 
+    border: 3px solid black; 
+    padding: 10px;  
+    margin-left: 10px;
+} 
+
+.justificar{
+    display: inline-block; 
+    width: 80px;
+}   
+
+
+
+
+
+
